@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am now a third year Master student in [PRIS Laboratory](http://www.pris.net.cn/), [School of Information and Communication Engineering](https://sice.bupt.edu.cn/) in Beijing University of Posts and Telecommunications, Beijing, China. My supervisor is Prof. [Chun-Guang Li](http://www.pris.net.cn/introduction/teacher/lichunguang). My major research interests are in statistical learning and recommendation system.
+I am now a third year Master student in [PRIS Laboratory](http://www.pris.net.cn/), [School of Information and Communication Engineering](https://sice.bupt.edu.cn/) in Beijing University of Posts and Telecommunications, China.  
+My supervisor is Prof. [Chun-Guang Li](http://www.pris.net.cn/introduction/teacher/lichunguang). My major research interests are in statistical learning and recommendation system.
 
 Education
 ------
