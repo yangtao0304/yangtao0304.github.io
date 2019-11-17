@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me: Tao Yang"
+title: "About me:"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
