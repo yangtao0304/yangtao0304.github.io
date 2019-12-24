@@ -23,8 +23,8 @@ Experiences
 
 Publications
 ------
-* ***Tao Yang*** and Chun-Guang Li, “Local Convex Representation with Pruning for Manifold Clustering”, accepted by IEEE International Conference on Visual Communication and Image Processing (VCIP), December 1-4, 2019, Sydney, Australia.
+* ***Tao Yang*** and Chun-Guang Li, “Local Convex Representation with Pruning for Manifold Clustering”, accepted by IEEE International Conference on Visual Communication and Image Processing (VCIP), December 1-4, 2019, Sydney, Australia. [[pdf]](https://yangtao0304.github.io/files/LCR_for_MC_VCIP2019_no288.pdf)  [[code]](https://github.com/yangtao0304/LCR-with-pruning-for-MC)
 
 Awards
 ------
-* Our paper “Local Convex Representation with Pruning for Manifold Clustering” won the ***Best Student Paper Award*** at IEEE VCIP 2019. [[pdf]](https://yangtao0304.github.io/files/LCR_for_MC_VCIP2019_no288.pdf)  [[code]](https://github.com/yangtao0304/LCR-with-pruning-for-MC)
+* Our paper “Local Convex Representation with Pruning for Manifold Clustering” won the ***Best Student Paper Award*** at IEEE VCIP 2019.
