@@ -27,4 +27,4 @@ Publications
 
 Awards
 ------
-* Our paper “Local Convex Representation with Pruning for Manifold Clustering” won the ***Best Student Paper Award*** at IEEE [VCIP 2019](http://vcip2019.org).
+* Our paper “Local Convex Representation with Pruning for Manifold Clustering” won the ***Best Student Paper Award*** at IEEE VCIP 2019. [[pdf]](https://yangtao0304.github.io/files/LCR_for_MC_VCIP2019_no288.pdf)  [[code]](https://github.com/yangtao0304/LCR-with-pruning-for-MC)
